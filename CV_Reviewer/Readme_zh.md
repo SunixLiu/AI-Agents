@@ -1,5 +1,7 @@
 # CV Reviewer 简历评审应用
+[[English]](Readme.md) 
 
+![Screenshot](./asset/screenshot.png)
 ## 简介
 - 基于 Streamlit 与 Agno 框架的简历评审工具。
 - 支持中文/英文界面与输出切换（默认中文）。
