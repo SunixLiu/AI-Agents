@@ -1,5 +1,7 @@
 # CV Reviewer
+[[Chinese 中文]](Readme_zh.md) 
 
+![Screenshot](./asset/screenshot.png)
 ## Overview
 - Resume review web app built with Streamlit and Agno.
 - Bilingual UI and output (Chinese/English), default is Chinese.
